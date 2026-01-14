@@ -1,0 +1,7 @@
+[
+  { "id": "goa", "name": "Goa", "country": "India" },
+  { "id": "jaipur", "name": "Jaipur", "country": "India" },
+  { "id": "manali", "name": "Manali", "country": "India" },
+  { "id": "kerala", "name": "Kerala", "country": "India" },
+  { "id": "varanasi", "name": "Varanasi", "country": "India" }
+]

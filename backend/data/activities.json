@@ -1,0 +1,202 @@
+[
+  {
+    "id": "goa-scuba-diving",
+    "cityId": "goa",
+    "title": "Scuba Diving at Grande Island",
+    "type": "water_sport",
+    "duration": 180,
+    "pricePerPax": 3500
+  },
+  {
+    "id": "goa-parasailing",
+    "cityId": "goa",
+    "title": "Parasailing at Calangute Beach",
+    "type": "water_sport",
+    "duration": 20,
+    "pricePerPax": 1500
+  },
+  {
+    "id": "goa-dolphin-cruise",
+    "cityId": "goa",
+    "title": "Dolphin Watching Cruise",
+    "type": "sightseeing",
+    "duration": 120,
+    "pricePerPax": 1000
+  },
+  {
+    "id": "goa-old-goa-walk",
+    "cityId": "goa",
+    "title": "Old Goa Heritage Walk",
+    "type": "sightseeing",
+    "duration": 180,
+    "pricePerPax": 800
+  },
+  {
+    "id": "goa-airport-transfer",
+    "cityId": "goa",
+    "title": "Airport Pickup/Drop",
+    "type": "transfer",
+    "duration": 60,
+    "pricePerPax": 1500
+  },
+  {
+    "id": "jaipur-amber-fort",
+    "cityId": "jaipur",
+    "title": "Amber Fort Tour",
+    "type": "sightseeing",
+    "duration": 180,
+    "pricePerPax": 1200
+  },
+  {
+    "id": "jaipur-elephant-ride",
+    "cityId": "jaipur",
+    "title": "Elephant Ride at Amer",
+    "type": "adventure",
+    "duration": 45,
+    "pricePerPax": 1800
+  },
+  {
+    "id": "jaipur-bazaar-walk",
+    "cityId": "jaipur",
+    "title": "Johari Bazaar Walking Tour",
+    "type": "sightseeing",
+    "duration": 120,
+    "pricePerPax": 500
+  },
+  {
+    "id": "jaipur-cooking-class",
+    "cityId": "jaipur",
+    "title": "Rajasthani Cooking Class",
+    "type": "leisure",
+    "duration": 180,
+    "pricePerPax": 2000
+  },
+  {
+    "id": "jaipur-hotel-transfer",
+    "cityId": "jaipur",
+    "title": "Hotel to City Transfer",
+    "type": "transfer",
+    "duration": 30,
+    "pricePerPax": 600
+  },
+  {
+    "id": "manali-paragliding",
+    "cityId": "manali",
+    "title": "Paragliding at Solang Valley",
+    "type": "adventure",
+    "duration": 30,
+    "pricePerPax": 3000
+  },
+  {
+    "id": "manali-river-rafting",
+    "cityId": "manali",
+    "title": "River Rafting in Beas",
+    "type": "adventure",
+    "duration": 120,
+    "pricePerPax": 1500
+  },
+  {
+    "id": "manali-trek",
+    "cityId": "manali",
+    "title": "Jogini Waterfall Trek",
+    "type": "adventure",
+    "duration": 240,
+    "pricePerPax": 800
+  },
+  {
+    "id": "manali-temple-visit",
+    "cityId": "manali",
+    "title": "Hadimba Temple Visit",
+    "type": "sightseeing",
+    "duration": 60,
+    "pricePerPax": 0
+  },
+  {
+    "id": "manali-airport-transfer",
+    "cityId": "manali",
+    "title": "Kullu Airport Transfer",
+    "type": "transfer",
+    "duration": 90,
+    "pricePerPax": 2000
+  },
+  {
+    "id": "kerala-houseboat",
+    "cityId": "kerala",
+    "title": "Alleppey Houseboat Cruise",
+    "type": "sightseeing",
+    "duration": 300,
+    "pricePerPax": 4000
+  },
+  {
+    "id": "kerala-ayurveda",
+    "cityId": "kerala",
+    "title": "Ayurveda Spa Session",
+    "type": "wellness",
+    "duration": 120,
+    "pricePerPax": 2500
+  },
+  {
+    "id": "kerala-kathakali",
+    "cityId": "kerala",
+    "title": "Kathakali Dance Show",
+    "type": "sightseeing",
+    "duration": 90,
+    "pricePerPax": 600
+  },
+  {
+    "id": "kerala-backwater-kayak",
+    "cityId": "kerala",
+    "title": "Backwater Kayaking",
+    "type": "water_sport",
+    "duration": 150,
+    "pricePerPax": 1200
+  },
+  {
+    "id": "kerala-cochin-transfer",
+    "cityId": "kerala",
+    "title": "Cochin Airport Transfer",
+    "type": "transfer",
+    "duration": 75,
+    "pricePerPax": 1800
+  },
+  {
+    "id": "varanasi-ganga-aarti",
+    "cityId": "varanasi",
+    "title": "Evening Ganga Aarti",
+    "type": "sightseeing",
+    "duration": 90,
+    "pricePerPax": 300
+  },
+  {
+    "id": "varanasi-boat-ride",
+    "cityId": "varanasi",
+    "title": "Sunrise Boat Ride",
+    "type": "sightseeing",
+    "duration": 120,
+    "pricePerPax": 500
+  },
+  {
+    "id": "varanasi-temple-walk",
+    "cityId": "varanasi",
+    "title": "Kashi Vishwanath Temple Walk",
+    "type": "sightseeing",
+    "duration": 150,
+    "pricePerPax": 400
+  },
+  {
+    "id": "varanasi-silk-tour",
+    "cityId": "varanasi",
+    "title": "Banarasi Silk Weaving Tour",
+    "type": "leisure",
+    "duration": 120,
+    "pricePerPax": 700
+  },
+  {
+    "id": "varanasi-station-transfer",
+    "cityId": "varanasi",
+    "title": "Railway Station Transfer",
+    "type": "transfer",
+    "duration": 45,
+    "pricePerPax": 400
+  }
+]
