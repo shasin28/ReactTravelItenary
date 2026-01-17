@@ -1,1 +1,19 @@
-{}
+{
+  "cityId": "goa",
+  "pax": 2,
+  "activities": [
+    {
+      "id": "planned-1768665234452",
+      "activityId": "goa-parasailing",
+      "startTime": "08:28",
+      "endTime": "08:48"
+    },
+    {
+      "id": "planned-1768665217277",
+      "activityId": "goa-scuba-diving",
+      "startTime": "09:23",
+      "endTime": "12:23"
+    }
+  ],
+  "totalPrice": 10000
+}
